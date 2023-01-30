@@ -9,7 +9,7 @@ Desvantagens:
     Memoria necessaria para pointers(llist).
 
 Aplicações:
-    Todas aplicações que relembrem uma pilha ou fila.
+    Todas aplicações que relembrem uma pilha.
 
 '''
 
